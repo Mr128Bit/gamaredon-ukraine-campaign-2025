@@ -1,0 +1,1 @@
+This is a list of domains used by Gamaredon and their ip address changes
