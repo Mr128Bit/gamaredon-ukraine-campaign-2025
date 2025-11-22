@@ -1,0 +1,180 @@
+{
+  "actor": "Gamaredon (Primitive Bear)",
+  "campaign": "2025 multi-stage HTML/HTA/LNK/PDF-Delivery via Telegram",
+  "generated": "2025-11-22T21:58:00Z",
+  "iocs": {
+    "domains": {
+      "dyndns": [
+        "acess-pdf.webhop.me",
+        "creates.webhop.me",
+        "digitall.webhop.me",
+        "dears.serveirc.com",
+        "dilopendos.serveirc.com",
+        "downcraft.serveirc.com",
+        "fixer.serveirc.com",
+        "fixfactors.serveirc.com",
+        "kia-court.serveirc.com",
+        "political-news.serveirc.com",
+        "readers.serveirc.com",
+        "serversftp.serveirc.com",
+        "ssu-procuror.redirectme.net",
+        "yeard.serveirc.com",
+
+        "papilonos.hopto.org",
+        "diskpart.myddns.me",
+        "selodovo.myddns.me",
+
+        "document-downloads.ddns.net",
+        "systems-debug.ddns.net",
+
+        "document-prok.freedynamicdns.org",
+        "downloads-document.freedynamicdns.org",
+        "write-document.freedynamicdns.org",
+        "procurature.freedynamicdns.org",
+
+        "print-documents.freedynamicdns.net",
+
+        "google-pdf.redirectme.net",
+        "hosting-redirect.sytes.net",
+        "tillthesunrise.sytes.net",
+        "open-files.systes.net",
+
+        "open-pdf.serveftp.com",
+        "pasive-host.gotdns.ch"
+      ],
+      "regular": [
+        "app-334825a6-4a2b-48bc-be92-e0582d656006.cleverapps.io",
+        "backup.9fvzesn.us",
+
+        "libraries-thus-yale-collaborative.trycloudflare.com",
+        "vacations-mic-games-scale.trycloudflare.com",
+        "incidence-polished-expires-denver.trycloudflare.com",
+        "streams-metallic-regulatory-armor.trycloudflare.com",
+
+        "divine-water-36e7.5ekz2z6pjk.workers.dev",
+        "long-king-02b7.5ekz2z6pjk.workers.dev",
+        "quietunion.48clhonm1m.workers.dev",
+        "divine-water-5123.svush66274.workers.dev",
+
+        "rqzbuwewuvnbbaucfhjl.supabase.co",
+
+        "for.estaca.ru",
+        "exorcise.me",
+        "andonceagain.online",
+        "gihs.andonceagain.ru",
+        "andonceagain.ru"
+      ]
+    },
+    "ips": [
+      "5.181.2.158",
+      "5.181.2.161",
+      "95.163.236.162",
+      "185.168.208.228",
+      "194.58.66.5",
+      "194.58.66.132",
+      "194.58.66.192",
+      "194.67.71.75",
+      "194.87.240.141",
+      "194.87.230.166",
+      "194.87.240.215",
+      "194.87.240.217",
+      "185.39.204.82",
+      "45.141.234.234",
+      "5.8.18.46",
+      "103.224.182.251",
+      "144.172.84.70",
+      "45.32.220.217",
+      "65.38.120.43",
+      "64.7.199.177",
+      "172.104.206.42",
+      "107.189.23.61"
+    ],
+    "telegram_channels": [
+      "https://www.telegram.me/s/natural_blood",
+      "https://www.telegram.me/s/oberfarir"
+    ],
+    "web_requests": [
+      {
+        "host": "readers.serveirc.com",
+        "path": "/gss_11.11.2025/kidneyfih/broadlyrQZ.pdf"
+      },
+      {
+        "host": "app-334825a6-4a2b-48bc-be92-e0582d656006.cleverapps.io",
+        "path": "/gpd_07.11.2025r/disputeqG1/concealedn2N.pdf"
+      },
+      {
+        "host": "dilopendos.serveirc.com",
+        "path": "/moss_10.11.2025/futureHtG/accountc7z.pdf"
+      },
+      {
+        "host": "fixer.serveirc.com",
+        "path": "/SUU_11.11.2025/dicontentedOhr/scoundrelit1.pdf"
+      },
+      {
+        "host": "dears.serveirc.com",
+        "path": "/SVrr_12.11.2025/crookoxQ/learningB4J.pdf"
+      },
+      {
+        "host": "fixfactors.serveirc.com",
+        "path": "/mmoUU_13.11.2025/evolutionKPm/armourV2P.pdf"
+      },
+      {
+        "host": "serversftp.serveirc.com",
+        "path": "/sss_10.11.2025/dialGsd/horribleNQx.pdf"
+      },
+      {
+        "host": "app-334825a6-4a2b-48bc-be92-e0582d656006.cleverapps.io",
+        "path": "/ss_07.11.2025/flashlightsK8Q/pondjsQ.pdf"
+      },
+      {
+        "host": "open-pdf.serveftp.com",
+        "path": "/motherrDJ/ssu/flowerbedD6M/dressmakerpvv.pdf"
+      },
+      {
+        "host": "5.8.18.46",
+        "path": "/sprdvth/tailor.ps1"
+      },
+      {
+        "host": "vacations-mic-games-scale.trycloudflare.com",
+        "path": "/regretxso/GP4/investigationer4/exhibtionLD6.pdf"
+      },
+      {
+        "host": "document-downloads.ddns.net",
+        "path": "/OD/sensationaSL/AprilcWs.jpeg"
+      },
+      {
+        "host": "print-documents.freedynamicdns.net",
+        "path": "/SS/atomN2s/arwardU26.jpeg"
+      },
+      {
+        "host": "google-pdf.redirectme.net",
+        "path": "/OD/remisshKY/consentedjtP.jpeg"
+      },
+      {
+        "host": "document-downloads.ddns.net",
+        "path": "/OD/quitzU2/comparativelyNWU.jpeg"
+      },
+      {
+        "host": "libraries-thus-yale-collaborative.trycloudflare.com",
+        "path": "/Gost/pitchedcbY/intenseLKt.jpeg"
+      },
+      {
+        "host": "194.58.66.5",
+        "path": "/Gost"
+      },
+      {
+        "host": "open-files.sytes.net",
+        "path": "/GPuUkr/satALU/eventfulpNq.pdf",
+        "note": "via http://news.liga.net@open-files.sytes.net/.. (URL spoofing)"
+      },
+      {
+        "host": "divine-water-36e7.5ekz2z6pjk.workers.dev",
+        "path": "/prosperousd92/allowingclO"
+      },
+      {
+        "host": "45.32.220.217",
+        "path": "/prosperousd92/allowingclO"
+      }
+    ]
+  }
+}
