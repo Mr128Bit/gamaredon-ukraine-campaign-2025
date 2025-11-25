@@ -111,6 +111,11 @@
                 "194.67.71.75"
             ],
             "status": "ok"
+        },
+        {
+            "timestamp": "2025-11-25T14:01:23.031090",
+            "ips": [],
+            "status": "resolve_failed"
         }
     ]
 }
