@@ -147,7 +147,7 @@ end function
 function SleepMs(sleepMs)
 
 
-modifyYbk = WScript.Sleep(sleepMs)
+    modifyYbk = WScript.Sleep(sleepMs)
 
 
 end function
@@ -157,7 +157,7 @@ end function
 Function RemoveSubstring(inputString, pattern)
 
 
-RemoveSubstring = replace(inputString, pattern, "")
+    RemoveSubstring = replace(inputString, pattern, "")
 
 end function
  
@@ -165,8 +165,8 @@ end function
 
 Function GetComputerName()
  
-GetComputerName = createobject(OBJ_WSCRIPT_SHELL).expandenvironmentstrings(ENV_COMPUTERNAME)
-createobject(OBJ_WSCRIPT_SHELL).expandenvironmentstrings(ENV_COMPUTERNAME)
+    GetComputerName = createobject(OBJ_WSCRIPT_SHELL).expandenvironmentstrings(ENV_COMPUTERNAME)
+    createobject(OBJ_WSCRIPT_SHELL).expandenvironmentstrings(ENV_COMPUTERNAME)
 
 end function
  
